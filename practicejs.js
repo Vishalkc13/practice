@@ -8,5 +8,9 @@ function checkvotting_criteri(age){
     }
 }
 
+function checkkingerror(){
+    console.log('error not found')
+}
+
 
 const checkingAge=checkvotting_criteri(19);
